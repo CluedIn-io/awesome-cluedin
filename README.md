@@ -1,7 +1,7 @@
 # Awesome CluedIn
 A collection of awesome things regarding the CluedIn ecosystem.
 
-# Continuous Deployment
+## Continuous Deployment
 
 ### Cluedin.Build.Tasks
 
