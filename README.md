@@ -8,5 +8,6 @@ A collection of awesome things regarding the CluedIn ecosystem.
 
 ## Continuous Deployment
 
+- [CluedIn.Product.Toolkit](https://github.com/CluedIn-io/CluedIn.Product.Toolkit) - Sync configuration between environments
 - [CluedIn.Build.Tasks](https://github.com/robobrown/Cluedin.Build.Tasks) - Export configuration from one environment to another
 
