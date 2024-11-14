@@ -16,7 +16,7 @@ A collection of awesome things regarding the CluedIn ecosystem.
 All open-source enricher built for CluedIn
 
 | Enricher | Description | Package name | Source Code Link |
-|--|--|--|
+|--|--|--|--|
 | [Brreg](/preparation/enricher/brreg) | Finds information about Norwegian companies. | CluedIn.Provider.ExternalSearch.Bregg | [Source Code](https://github.com/CluedIn-io/CluedIn.Enricher.Brreg) |
 | [Clearbit](/preparation/enricher/clearbit) | Finds company logo and domain information. | CluedIn.Provider.ExternalSearch.ClearBit | [Source Code](https://github.com/CluedIn-io/CluedIn.Enricher.ClearBit) |
 | [Companies House](/preparation/enricher/companies-house) | Finds information about UK companies. Uses the company name to return public information including registered office address, filing history, and so on. | CluedIn.Provider.ExternalSearch.CompanyHouse | [Source Code](https://github.com/CluedIn-io/CluedIn.Enricher.CompanyHouse) |
