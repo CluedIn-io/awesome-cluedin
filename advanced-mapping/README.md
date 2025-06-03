@@ -25,6 +25,7 @@ If a property's value is a string and is blank (like `""` or `"   "`), it replac
   "LastName": "Ward"
 }
 **Output:**
+
 ```json
 {
   "FirstName": "Tim",
