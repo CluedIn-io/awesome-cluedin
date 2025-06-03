@@ -25,15 +25,15 @@ If a property's value is a string and is blank (like `""` or `"   "`), it replac
   "MiddleName": "",
   "LastName": "Ward"
 }
-Output:
+**Output:**
 
 ```json
-
 {
   "FirstName": "Tim",
   "MiddleName": "\u200B",
   "LastName": "Ward"
 }
+
 
 
 
