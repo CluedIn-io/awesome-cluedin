@@ -18,18 +18,22 @@ If a property's value is a string and is blank (like `""` or `"   "`), it replac
 ## Example
 
 **Input:**
+
 ```json
 {
   "FirstName": "Tim",
   "MiddleName": "",
   "LastName": "Ward"
 }
+Output:
 
-**Output:**
 ```json
+
 {
   "FirstName": "Tim",
   "MiddleName": "\u200B",
   "LastName": "Ward"
 }
+
+
 
