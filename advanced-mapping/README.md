@@ -25,7 +25,9 @@ If a property's value is a string and is blank (like `""` or `"   "`), it replac
   "MiddleName": "",
   "LastName": "Ward"
 }
-`**Output:**`
+```
+
+**Output:**
 
 ```json
 {
@@ -33,6 +35,8 @@ If a property's value is a string and is blank (like `""` or `"   "`), it replac
   "MiddleName": "\u200B",
   "LastName": "Ward"
 }
+```
+
 
 
 
